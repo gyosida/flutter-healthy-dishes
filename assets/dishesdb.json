@@ -1,0 +1,352 @@
+{
+  "dishes": [
+    {
+      "id": "1",
+      "name": "Pollo a la brasa",
+      "image": "https://trome.pe/actualidad/10-pollo-brasa-peru-granja-primos-chiken-pardos-lista-direccion-video-95155",
+      "description": "El Pollo a la brasa es la denominación que se da en el Perú al pollo asado al carbón, a la leña o a gas en un sistema rotatorio. Es considerado un platillo típico de la gastronomía peruana y uno de los de mayor consumo, incluso por encima del cebiche, el chifa y las especialidades de la comida rápida.",
+      "ingredients": [
+        "Se requiere un pollo grande entero (sin vísceras)",
+        "¼ taza de cerveza negra",
+        "1 cucharada de vinagre blanco",
+        "1 de sillao",
+        "1/2 de romero (seco)",
+        "1/2 de orégano",
+        "1 de ají panca (molido)",
+        "1 de ajo (molido)",
+        "1/2 de comino",
+        "1/2 de pimienta y 1 de sal."
+      ],
+      "recipe": "En un recipiente grande se pone la cerveza, el vinagre, el ajo, el comino, la sal, la pimienta y unas gotitas de sillao; se untar el pollo con esta mezcla por dentro y por fuera. En otro recipiente mezclar el romero con el orégano e introducir una pequeña cantidad en la cavidad del pollo; el resto untarlo bien en la parte externa. Finalmente, frotarlo bien con el ají colorado y dejar macerar por 2 horas. Se hornea a190º C. durante 1 hora.",
+      "categoryID": "2"
+    },
+    {
+      "id": "2",
+      "name": "Ceviche",
+      "image": "https://trome.pe/actualidad/10-pollo-brasa-peru-granja-primos-chiken-pardos-lista-direccion-video-95155",
+      "ingredients": [
+        "Ingredientes:1 pizca de Pimienta",
+        "1 kilogramo de pescado de tu elección",
+        "1 rama de apio picado",
+        "¼ taza de Taza cilantro de hoja picada",
+        "1 puñado de Ajos machacados1 unidad de Ají mirasol picado",
+        "1 unidad de Ají limo picado",
+        "2 cucharadas soperas de Jugo de jengibre",
+        "12 unidades de Limones",
+        "1 taza de Caldo de pescado",
+        "1 pizca de Sal",
+        "1 unidad de Camote sancochado",
+        "1 unidad de Maíz tierno sancochado",
+        "1 manojo de Hojas de lechuga",
+        "1 unidad de cebolla cortada en julianas"
+      ],
+      "description": "Plato de pescado o marisco crudo cortado en trozos pequeños y puestos a marinar en un preparado de adobo de jugo de limón o naranja agria, cebolla picada, sal, pimienta y cilantro; es un plato típico de algunos países sudamericanos, especialmente Perú.",
+      "recipe": "Lo primero que debes hacer para poder elaborar el ceviche peruano es exprimir los 12 limones para extraer su jugo, resérvalo para más adelante. Luego, corta el pescado en trozos de 3 centímetros, aproximadamente. Coloca los trozos en el recipiente que vayas a utilizar para servir el plato.Mezcla el pescado con el ají mirasol picado, el jugo de jengibre, el caldo de pescado y el apio picado. Déjalo reposar unos minutos para que se marine bien e impregne de todos los sabores.Hecho esto, coloca la cebolla cortada en julianas y el ajo machacado sobre los trozos de pescado marinado. Salpimenta al gusto y coloca a un lado del plato el camote sancochado, la lechuca y el maíz tierno también hervido.",
+      "categoryID": "2"
+    },
+    {
+      "id": "3",
+      "name": "Arroz con pollo",
+      "image": "http://2.bp.blogspot.com/-UC9M4ymr6OM/Ul8SKc8rokI/AAAAAAAACuY/-52M4t41L8A/w1200-h630-p-k-no-nu/como+preparo+un+arroz+con+pollo+al+culantro+con+arroz+al+pimiento+receta+recipes+saborysazon.jpg",
+      "description": "El arroz con pollo es un plato típico de España y América Latina? con variaciones regionales según el país. Consiste en arroz cocinado con pollo, en presas o desmechado, verduras, y sazonado con especias",
+      "ingredients": [
+        "8 presas de pollo",
+        "½ taza de aceite",
+        "1 cebolla mediana picada en cuadritos",
+        "3 dientes de ajo picados",
+        "½ taza de ají amarillo fresco licuado",
+        "1 taza de culantro molido",
+        "2 pimientos (1 picado y el otro en tiras para decorar) 3 tazas de arroz 1 taza de arvejas",
+        "½ taza de choclo desgranado",
+        "2 ½ taza de agua hirviendo",
+        "½ taza de cerveza",
+        "Sal y Pimienta"
+      ],
+      "recipe": "Salpimentar y freír las presas de pollo en aceite caliente. Retirar presas. Dorar en ese mismo aceite los ajos, la cebolla, el ají y el culantro. Colocar las presas de pollo nuevamente, añadir la cerveza y seguir cocinando hasta que el pollo esté listo.Retirar las presas, sin dejar que se enfríen. Incorporar el arroz, las arvejas, el choclo y el pimiento. Mezclar bien.Agregar el agua, rectificando la sazón y llevar a hervir. Bajar el fuego y seguir cocinando 20 minutos más hasta que el arroz esté cocido. Servir el arroz con las presas bien calientes y decorar con ensalada de palta, cebolla o papa a la huancaína, eso depende de las preferencias de cada persona. Así que pon manos a la obra y disfruta de esta delicia.",
+      "categoryID": "2",
+      "": {}
+    },
+    {
+      "id": "4",
+      "name": "Anticuchos",
+      "image": "https://e.radio-capital.io/medium/2016/10/13/165316_265886.png",
+      "description": "El anticucho es un tipo de brocheta de origen Peruano, ? que también es popular en algunos países sudamericanos con diferentes variaciones. Consiste en carne y otros alimentos que se asan ensartados en un pincho.",
+      "ingredients": [
+        "1 corazón de Res",
+        "1/2 cuchara de pimienta",
+        "1/2 cucharada de comino",
+        "2 cucharaditas de orégano",
+        "5 dientes de ajos molidos",
+        "3/4 de taza de vinagre",
+        "1/2 taza de ají panca molido",
+        "Sal al gusto",
+        "Palitos de caña",
+        "1 brocha fabricada de hojas de panca de choclo",
+        "Papa (patata)",
+        "choclo (maíz)"
+      ],
+      "recipe": "Primero retira la grasa y la membrana que cubre el corazón dejándolo totalmente limpio y quedando sólo la carne. Corta el corazón (corte sesgado) en pequeños trozos de 3 cm aproximadamente.Pica el ajo en trozos pequeños. Ahora mezcla todos los condimentos con el ajo molido. Agrega ají colorado (ají panca), sal, pimienta, comino y orégano.Te recomiendo que frotes el orégano en tus manos mientras lo incorporas para que tenga mayor aroma. Echa el vinagre y remueve toda la mezcla. Una vez que todo esté bien mezclado viértelo sobre los trozos de anticucho y déjalo macerar (reposar) durante dos horas como mínimo, pero si es posible es mejor dejarlo toda una noche entera.Ensarta (pincha) los trozos de anticucho con los palitos de brocheta (3 trozos por palito)Calienta la parilla con un poco de aceite y cuando este bien caliente coloca los palitos de anticucho.Asegúrate de que se frían bien por ambos lados y de rato en rato úntalos con una brocha utilizando el preparado (la mezcla).Sírvelos acompañados de trozos de papa, choclo (maíz) y una salsa de ají o rocoto.",
+      "categoryID": "2"
+    },
+    {
+      "id": "5",
+      "name": "Lomo Saltado",
+      "image": "https://cde.publimetro.e3.pe/ima/0/0/0/6/2/62966.jpg",
+      "description": "El lomo saltado es un plato típico de la gastronomía del Perú consistente en carne de res, arroz cocido y papas fritas. Es uno de los platos más consumidos popularmente en el Perú.?",
+      "ingredients": [
+        "600 gr. de lomo de res",
+        "1 cebolla roja cortada en gajos",
+        "2 tomates cortados en gajos",
+        "1 cucharada pequeña de pimienta negra molida",
+        "5 tallos de cebolla china (cebollín) en corte sesgado",
+        "1 ají amarillo cortado en tiras sin venas",
+        "Aceite vegetal",
+        "800 gr. de arroz blanco cocinado",
+        "400 gr. de papas (patatas) fritas en bastones",
+        "de preferencia papas amarillas",
+        "200 ml. de caldo de carne",
+        "100 ml. de sillao (salsa de soja)",
+        "Un poco de hojas de culantro (cilantro) picado",
+        "50 ml. de vinagre",
+        "1 cucharada de ajo molido en pasta",
+        "1/4 de cucharada de orégano seco molido",
+        "1/4 de cucharada de comino y Sal al gusto."
+      ],
+      "recipe": "Corta el lomo en trozos (bastones) más o menos gruesos (3cm x 1cm) y condiméntalos con ajo molido, comino, orégano y una cuchara de vinagre. Déjalo reposar unos 10 minutos para que coja sabor. Calienta la sartén a fuego alto con un poco de aceite. Cuando veas que empieza a salir un poquito de humo, entonces agrega la carne y fríela por unos segundos, el tiempo dependerá de que tan caliente este la sartén. A continuación, resérvala en un bol y tápala para que conserve el calor. Ahora en la misma sartén agrega la cebolla picada, el tomate, el ají amarillo y un poquito de aceite. Fríe todo por unos segundos y agrega un poco de caldo de carne, salsa de soja (sillao) y el vinagre. Agrega la carne que habías reservado, mezcla todo con movimientos de sartén (sin utensilio para no maltratar el tomate) y después de unos 30 segundos más o menos agrega la cebolla china y finalmente un poco de culantro picado (cilantro). El Lomo Saltado tiene que estar jugoso, por eso, si es necesario corrige agregando un poco de caldo de carne.Sirve en un plato casi la totalidad del lomo y deja un poco para mezclar con las papas fritas. Agrega las papas fritas al resto de lomo saltado en la sartén, mézclalo y vuelve a servir todo encima. En el Perú nos encanta el arroz, así que este plato también va acompañado de arroz blanco.",
+      "categoryID": "2"
+    },
+    {
+      "id": "6",
+      "name": "Hamburguesa Vegetal",
+      "image": "https://recetasveganas.net/wp-content/uploads/2015/04/hamburguesa_vegetal_espinaca_patata_receta_vegeariana_4.jpg",
+      "description": "La hamburguesa vegetal es una variante de la hamburguesa tradicional que evita la carne picada para emplear productos vegetales idóneos para los vegetarianos o veganos. Se emplean en su elaboración productos como tofú, seitán o lentejas.?",
+      "ingredients": [
+        "200 g de lentejas",
+        "100 g de quinoa",
+        "300 g de espinacas frescas",
+        "Medio limón1 diente de ajo",
+        "1 cebolla",
+        "2 zanahorias",
+        "Perejil fresco",
+        "Pan rallado",
+        "Sal y pimienta"
+      ],
+      "recipe": "Hierve las lentejas, escúrrelas bien y resérvalas.Hierve la quinoa, escúrrela bien y resérvala.Hierve las espinacas, escúrrelas bien, rocíalas con un poco de zumo de limón y resérvalas. En una sartén, sofríe el ajo, la cebolla picada y la zanahoria, también picada.En un bol mezcla las lentejas, la quinoa, las espinacas y el sofrito de verduras. Salpimienta, añade un poco de pan rallado, el perejil picado y vuelve a mezclarlo todo, de forma que quede una masa bien compacta.Haz seis bolas de unos 150 gramos cada una y aplánalas a la altura que te gusten.Calienta un poco de aceite de una sartén y cuece cada hamburguesa vegetal, que a continuación puedes servir con una ensalada o en bocadillo.",
+      "categoryID": "2"
+    },
+    {
+      "id": "7",
+      "name": "Ají de gallina",
+      "image": "https://www.iperu.org/wp-content/uploads/2017/12/aji-de-choros.jpg",
+      "description": "El ají de gallina es un plato típico de la gastronomía peruana, concretamente de la costa, ? consiste en un ají o crema espesa con pechuga de gallina deshilachada. Esta crema es servida con papas cocidas, y en ocasiones con arroz blanco. Es usual reemplazar la gallina por pollo.",
+      "ingredients": [
+        "1 pechuga de gallina ó pollo entera con hueso",
+        "3 ajíes amarillos peruanos",
+        "1 cebolla grande",
+        "3 dientes de ajo",
+        "1/2 taza de leche evaporada",
+        "4 mitades de nueces",
+        "2 paquetes de galletas de soda ó 2 rebanadas de pan de molde",
+        "2 cucharadas de queso parmesano",
+        "Sal",
+        "Pimienta",
+        "2  papas cortadas en rodajas",
+        "Aceitunas negras y 1 huevo sancochado"
+      ],
+      "recipe": "El primer paso para hacer esta receta de aji de gallina es poner a cocinar la pechuga entera del animal en una olla con agua, sin sal ni nada. Cuando esté lista, reserva el caldo y deja enfriar la carne. Posteriormente desméchala y reserva.Haz una pasta con el ají amarillo: retírale las semillas y las venas y con un poquito del caldo de la pechuga de pollo licúa hasta que tenga una textura cremosa.Muele las nueces en un mortero y resérvalas también.Pica con las manos las galletas de soda(ó el pan) hasta que queden prácticamente hechas polvo. Puedes ayudarte con un mortero o un procesador de alimentos. Reserva (otra vez).Calienta una sartén profunda y sofríe el ajo y la cebolla previamente picados pequeñitos.Cuando la cebolla se transparente agrega la pasta de ají, mezcla bien y agrega sal y pimienta.En otro recipiente junta las galletas de soda (ó el pan) con un poco de caldo de la pechuga de pollo hasta que te quede una mezcla espesa tal como se ve en la imagen.Incorpora esta “masa” a la sartén con el sofrito. Revuelve bien y agrega las nueces molidas y la pechuga de gallina (pollo).Agrega 1 taza de caldo, y baja el fuego para que se cocine un rato.Transcurridos unos 5 minutos agrega el queso parmesano. Deja cocinar por otros 5 minutos más.Si ha espesado mucho, puedes ponerle más caldo, si está muy aguado, puedes ponerle más queso.Cuando haya transcurrido en total 10 minutos desde que bajaste la temperatura de la cocina, retira del fuego, agrega la leche evaporada y revuelve bien.",
+      "categoryID": "2"
+    },
+    {
+      "id": "8",
+      "name": "Papa a la Huancaina",
+      "image": "https://2.bp.blogspot.com/-rrbZmoolUKE/WzfAY0H-7yI/AAAAAAAAAAw/AaIw-9nd2gkmyFGcN3hza-DDCGyowYq5ACLcBGAs/s1600/xdxd.jpg",
+      "description": "La papa a la huancaína es un plato típico de la costa y sierra central del Perú que, junto al ceviche, es uno de los productos gastronómicos más populares y representativos de este país.",
+      "ingredients": [
+        "300 gr. de queso fresco (de preferencia con poca sal)",
+        "½ taza de leche evaporada",
+        "3 ajíes amarillos",
+        "1 cucharada de ajo molido",
+        "1 paquete de galletas de soda",
+        "2 cucharadas de aceite vegetal",
+        "Sal al gusto (para rectificar el sabor)",
+        "1 kg. de papas cocidas",
+        "4 huevos cocidos",
+        "250 gr. de aceitunas de botija y 1 lechuga"
+      ],
+      "recipe": "Quitar las pepas y las venas a los ajíes amarillos. Una vez limpios cocer los ajíes por uno o dos minutos en agua hirviendo y luego quitarles la piel. Reservar.Poner en la licuadora una parte del queso trozado en cubos pequeños, la leche, los ajíes sin piel, el ajo molido, el aceite y las galletas de soda. Licuar e ir añadiendo el resto del queso hasta formar una crema. Probar, Si le falta sal rectificar agregándolo al gusto. Si la crema está muy espesa agregar un poco más de leche y volver a licuar. Si la crema está aguada agregar más galletas y volver a licuar.",
+      "categoryID": "2"
+    },
+    {
+      "id": "9",
+      "name": "Lomo al cerdo con ensalada de hojas verdes con lentejas",
+      "image": "https://hips.hearstapps.com/ellees.h-cdn.co/assets/15/37/1024x726/1024x726-1456918822-hero1.jpg?resize=480:*",
+      "description": "El lomo de cerdo es cada una de las dos piezas de la carne del cerdo que están junto al espinazo y bajo las costillas del animal. Suele tener una forma cilíndrica. Es frecuente encontrarlo secado al aire o preparado en adobo: lomo en adobo.",
+      "recipe": "Salpimentar el solomillo de cerdo. Untar su superficie con    una cucharada de miel. Poner una sartén al fuego con unas  gotas de aceite de oliva y el solomillo. Mantener al fuego hasta    que se dore bien por todas partes Lavar y cortar la rama de apio en dados pequeños. Lavar y cortar en dados pequeños la zanahoria. Pelar y picar la cebolla. Pelar y picar e tomate. Poner en un cuenco 6 cucharadas de aceite de oliva y 1 de vinagre. Añadir las verduras picadas y las lentejas bien escurridas. Salpimentar y añadir un poco de perejil picado. Servir el solomillo cortado en rodajas y acompañado de la ensalada de lentejas.",
+      "categoryID": "2"
+    },
+    {
+      "id": "10",
+      "name": "Lomo de cerdo con salsa de zanahoria",
+      "image": "https://www.bezzia.com/wp-content/uploads/2017/05/lomo_salsa_zanahoria.jpg",
+      "description": "El lomo de cerdo es cada una de las dos piezas de la carne del cerdo que están junto al espinazo y bajo las costillas del animal. Suele tener una forma cilíndrica. Es frecuente encontrarlo secado al aire o preparado en adobo: lomo en adobo.",
+      "ingredients": [
+        "½ libra de lomo de cerdo. Una pizca de sal. Pimienta al gusto. 3 o 4 zanahorias medianas.1 cebolla mediana",
+        "2 o 3 cucharadas de aceite de canola o de oliva",
+        "preferentemente extra virgen 1 taza de caldo de pollo guardada en el refrigerador y después de haberle retirado la grasa flotante con una cuchara al otro día por la mañana. Cilantro al gusto."
+      ],
+      "recipe": "Condimentar la carne de cerdo y colocarla al horno en una bandeja aceitada. Por otra parte, pelar y rallar la zanahoria y pelar y cortar la cebolla. Luego, colocar el aceite, la zanahoria y la cebolla en una cacerola y después, añadir la taza de caldo desgrasado. Dejar cocinar a fuego lento y, por último, agregar la pimienta y el cilantro antes de pasar por la batidora. Una vez que estén listas las dos preparaciones, cortar la carne en rebanadas e incorporarles la salsa cremosa por encima. Es esta una opción diferente que puede ser incluida durante cualquier día de la semana.",
+      "categoryID": "2"
+    },
+    {
+      "id": "11",
+      "name": "Chuletas de cerdo al tomillo",
+      "image": "https://www.animalgourmet.com/wp-content/uploads/2013/07/chuleta.jpg",
+      "description": "Una chuleta de cerdo es un corte de carne obtenido del espinazo del puerco]. Una chuleta de cerdo adulto suele contener parte de una vértebra y parte de su correspondiente costilla, y en general es lo bastante grande como para ser servida como porción individual para una persona.",
+      "ingredients": [
+        "2 chuletas de cerdo. Aceite de oliva",
+        "preferentemente extra virgen. Una pizca de sal. Un limón mediano. Pimienta molida. Tomillo. Vegetales al gusto para acompañar."
+      ],
+      "recipe": "Salpimentamos las chuletas y las embadurnamos con aceite de oliva extra virgen. Espolvorear el tomillo. Colocar las chuletas en la sartén a fuego lento Aliñamos los vegetales bien picaditos con el limón. Agregamos 1 cucharada de aceite a la sartén. Cuando terminen de cocinarse, comprobamos si la carne está cocinada a nuestro gusto. Servimos o dejamos un más poco de tiempo.",
+      "categoryID": "2"
+    },
+    {
+      "id": "12",
+      "name": "Caldo verde ligero",
+      "image": "http://www.alacartaparados.es/wp-content/uploads/2019/06/Portuguese-kale-and-potato-soup-caldo-verde.jpg",
+      "description": "El caldo verde es una de las comidas más populares del departamento de Cajamarca, dado que su sabor es único y especial. Asimismo, es en ese lugar donde usualmente se prepara y donde las personas pueden degustarlo, pero para que también lo disfrutes en casa, a continuación te damos la receta.",
+      "recipe": "Cuece 1 patata pequeña pelada y troceada hasta que esté blanda. Ponla en una olla y cháfala un poco con un tenedor. Añade 1 cebolleta picada, un poco de aceite y una pizca de sal. Cubre con 1 litro de agua y cuece durante 10 minutos. Añade 200 g de col rizada y 100 g de acelgas. Deja cocer 10 minutos más a fuego lento y sirve con perejil fresco picado.",
+      "categoryID": "2"
+    },
+    {
+      "id": "13",
+      "name": "Sopa de miso sencilla",
+      "image": "https://www.orientalmarket.es/wp-content/uploads/2016/09/shutterstock_71643655-1024x681.jpg",
+      "description": "El miso es una pasta de soja fermentada con sal marina de la gastronomía japonesa.",
+      "recipe": "Calienta 1 litro de caldo de pollo o de verduras y cuece a fuego lento con 1 zanahoria en rodajas y unas cuantas setas. Añade 1 cucharada de miso blanco, 1 cucharadita de cilantro fresco, 1 cucharadita de perejil fresco y un poco de cebollino.",
+      "categoryID": "2"
+    },
+    {
+      "id": "14",
+      "name": "Sopa de cebolla",
+      "image": "https://cocina-casera.com/wp-content/uploads/2018/01/sopa-de-cebolla-francesa-3.jpg",
+      "description": "La sopa de cebolla es un caldo en el que el principal ingrediente es la cebolla caramelizada. Es una de las sopas más conocidas. Hoy en día es una de las sopas instantáneas más populares, pudiéndose encontrar en casi cualquier supermercado de occidente.",
+      "recipe": "Corta en juliana fina 2 cebollas dulces y ponlas a pochar(cocer en agua hirviendo) a fuego suave en una olla con un poco de aceite de oliva y una pizca de sal. Añade un chorrito leche desnatada o leche de soja y deja que se cocine hasta que se transparente. Salpimenta y agrega un poco de ajo granulado, cubre con 600 ml de agua o caldo y cuece 10 minutos. Tritura bien y sirve con unos copos de levadura de cerveza o un poco de queso de cabra desnatado.",
+      "categoryID": "2"
+    },
+    {
+      "id": "15",
+      "name": "Ensalada de fideos soba de ajonjolí y cacahuate con aguacate",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2016-05/25/17/asset/buzzfeed-prod-fastlane03/sub-buzz-5254-1464213381-1.jpg?downsize=800:*&output-format=auto&output-quality=auto",
+      "ingredients": [
+        "1 paquete de 8 onzas de fideos soba",
+        "2 cucharaditas de aceite de canola",
+        "1 cebolla mediana",
+        "cortada en cubitos",
+        "3 dientes de ajo",
+        "picados o prensados",
+        "1 trozo de jengibre de 1 pulgada",
+        "rallado",
+        "1 taza de zanahorias ralladas",
+        "1 taza de arvejas",
+        "3 cucharaditas de tostadas Aceite de sésamo",
+        "3 cucharadas de salsa de soja",
+        "2 cucharaditas de azúcar morena (o más",
+        "al gusto)",
+        "2 cucharadas de crema de cacahuate cremosa",
+        "2 cucharaditas de salsa de ajo-chile (o más",
+        "al gusto)",
+        "4 cebolletas",
+        "picadas",
+        "2 cucharadas de semillas de sésamo tostadas",
+        "2 aguacates",
+        "rebanados y lanzados con jugo de limón y rodajas de limón extra",
+        "para servir"
+      ],
+      "description": "Es dulce y picante y crujiente y cremosa. Además, estos fideos se sirven fríos por lo que, literalmente, es comida reconfortante para el verano.",
+      "recipe": "Cocine los fideos de soba en agua hirviendo hasta el dente, de acuerdo con las instrucciones del paquete. Escurrir y enjuagar con agua fría. Dejar de lado.",
+      "Mientras": {},
+      "En": {},
+      "categoryID": "2"
+    },
+    {
+      "id": "16",
+      "name": "PALOMITAS DE MAÍZ caseras",
+      "image": "https://img.buzzfeed.com/buzzfeed-static/static/2014-11/4/15/enhanced/webdr04/longform-original-23712-1415132112-11.jpg?downsize=800:*&output-format=auto&output-quality=auto",
+      "description": "Cuando se te antoja un refrigerio salado, las palomitas de maíz caseras son la solución perfecta.",
+      "recipe": "En esta receta de palomitas de maíz para estufa, rocía un poco de agua sobre las palomitas de maíz en lugar de mantequilla derretida y espolvoréalas con sal. Seguirán estando deliciosas pero con mucha menos grasa.",
+      "categoryID": "2"
+    },
+    {
+      "id": "17",
+      "name": "Batido de plátano y soja",
+      "image": "https://www.hola.com/imagenes/nutricion/20160126927/batidos-caseros-proteinas-para-deportistas/0-2-498/smoothies-deportistas1--z.jpg",
+      "description": "El plátano es un alimento ideal para consumir justo después del ejercicio, ya que su índice glucémico elevado ayuda a una mayor asimilación de los azúcares y de los hidratos de carbono por lo que facilita la recuperación de energía y la hidratación del organismo. La leche de soja, por su parte, es rica en magnesio, fósforo y potasio, vitaminas del complejo B y vitamina E y proteínas. Este batido te ayudará a prevenir calambres musculares y la fatiga muscular.",
+      "recipe": "1 vaso de leche de soja,1 plátano maduro,½ cucharada de canela,½ cucharada de nuez moscada y 3 cucharadas de azúcar de caña.",
+      "categoryID": "1"
+    },
+    {
+      "id": "18",
+      "name": "Batido de cacahuetes",
+      "image": "https://www.hola.com/imagenes/nutricion/20160126927/batidos-caseros-proteinas-para-deportistas/0-2-499/smoothies-deportistas2--z.jpg",
+      "description": "Los frutos secos son un gran aliado para los deportistas por su gran aporte en proteínas y fibra y ácidos grasos esenciales; aunque debido a su alto aporte calórico debemos consumirlos en su justa medida. Si elegimos el cacahuete, nos beneficiaremos además de las extraordinarias propiedades del resveratrol, un antioxidante que también encontramos en el vino tinto.",
+      "recipe": "1 taza de agua,1 cucharada de mantequilla de cacahuete natural,15 cacahuetes naturales,1 cucharadita de canela y ½ taza de hielo.",
+      "categoryID": "1"
+    },
+    {
+      "id": "19",
+      "name": "Batido de espinacas",
+      "image": "https://www.hola.com/imagenes/nutricion/20160126927/batidos-caseros-proteinas-para-deportistas/0-2-500/smoothies-deportistas3--z.jpg",
+      "description": "Los zumos de hoja verde como la espinaca, lechuga, col, berros, brócoli… son un cóctel de vitaminas y minerales que van a ayudarte en la recuperación del metabolismo tras un esfuerzo intenso como el ejercicio. Además, la espinaca al ser rica en clorofila fomenta el la oxigenación de la sangre y, a su vez, aumenta el rendimiento deportivo.",
+      "recipe": "1 taza de leche de almendras o coco,1 puñado de espinacas lavadas,1 plátano previamente congelado,1 sobre de edulcorante sin calorías y ½ taza de hielo.",
+      "categoryID": "1"
+    },
+    {
+      "id": "20",
+      "name": "Huevos escalfados",
+      "image": "https://cdnb.20m.es/sites/123/2017/11/Portada-620x406.jpg",
+      "description": "Por qué te convienen: el huevo aporta proteínas completas (con los 8 aminoácidos esenciales) que ayudan a reparar las fibras musculares rotas tras el ejercicio.",
+      "recipe": "1 huevo escalfado,50 g de pavo,Medio aguacate y 2 rebanadas de tostadas integrales o de espelta.",
+      "categoryID": "1"
+    },
+    {
+      "id": "21",
+      "name": "Salmón con mango y aguacate",
+      "image": "http://i2.esmas.com/2014/05/12/646987/salmon-en-salsa-de-mango-613x342.jpg",
+      "description": "Por qué te conviene: Además de energía y proteínas, este plato es rico en triptófano que ayuda al cuerpo a relajarse tras la actividad física y a prepararse para dormir (ten en cuenta que ejercicio te activa, con lo puede costarte más conciliar el sueño.",
+      "recipe": "150 g de salmón,Medio mango y medio aguacate laminados y Una taza de arroz integral.",
+      "categoryID": "1"
+    },
+    {
+      "id": "22",
+      "name": "Yogur griego",
+      "image": "http://www.eatandfitlife.com/wp-content/uploads/2017/07/granola-yogur-griego-y-frutos-rojos-750x498.jpg",
+      "description": "Por qué te conviene: el yogur griego contiene el doble de proteínas que los normales y es una gran fuente de calcio, esencial para unos huesos fuertes.",
+      "recipe": "200 g de yogur griego,Media taza de avena,Un puñadito de frutos rojos y 3 o 4 nueces.",
+      "categoryID": "1"
+    },
+    {
+      "id": "23",
+      "name": "Batido con leche vegetal",
+      "image": "https://i.ytimg.com/vi/nRgayAD5-TI/maxresdefault.jpg",
+      "description": "Por qué te conviene: la leche vegetal, además de ser rica en hidratos de carbono y proteínas que ayudan a tu organismo a recuperarse tras la actividad física, es baja en grasas y se digiere mucho mejor.",
+      "recipe": "200 ml de leche de almendras, de coco o de avellanas (versiones siempre sin azúcar),1 plátano y 1 cucharada de avena.",
+      "categoryID": "1"
+    },
+    {
+      "id": "24",
+      "name": "Ensalada tíbia de garbanzos",
+      "image": "https://sevilla.abc.es/gurme//wp-content/uploads/2014/05/ensalada-tibia-de-garbanzos-y-pimientos.jpg",
+      "description": "Esta es una buena opción de cena fitness rica en proteína vegetal.",
+      "recipe": "Los garbanzos son una legumbre que combina muy bien con cualquier vegetal, por eso, escoge las verduras que más te gusten. Para preparar una ensalada tibia, escoge algunos vegetales crudos y otros salteados en la sartén, o cocidos al horno o al vapor para aportar un contraste de temperatura. Elige el mejor aliño o combina diferentes para que cada vez tenga un toque único.",
+      "categoryID": "1"
+    },
+    {
+      "id": "25",
+      "name": "Un sándwich con atún",
+      "image": "",
+      "description": "Otra fantástica opción después de realizar nuestra rutina de entrenamiento. El pan nos aportará la energía suficiente que necesitamos para reponer nuestro glucógeno tras el ejercicio, y una buena cantidad de atún (unos 100 gramos) posee alrededor de 20 gramos de proteína, también necesaria para las fibras musculares que hemos trabajado. Además, la combinación de estos alimentos no tiene apenas grasa, sobre todo si optamos por atún sin aceite de oliva añadido.",
+      "recipe": "Un simple pan y combinarlo con 100 g de atún y a disfrutar.",
+      "categoryID": "1"
+    }
+  ]
+}
