@@ -1,2 +1,3 @@
-# flutter-healthy-dishes
-App for testing Flutter and Dart capabilities.
+# Vida Saludable
+
+A new Flutter application.
