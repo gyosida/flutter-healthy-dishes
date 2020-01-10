@@ -1,4 +1,7 @@
+import 'dart:async' as prefix0;
+
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:vida_saludable/model/dish.dart';
 import 'package:vida_saludable/view/image/dishimage.dart';
 
@@ -15,6 +18,7 @@ class DishDetail extends StatelessWidget {
             children: <Widget>[
                   Image.asset(buildDishImage(_dish),
                       height: 250, fit: BoxFit.fill),
+                  FavoriteButton()
                 ] +
                 _buildIngredientsViews() +
                 _buildRecipeView()));
@@ -54,5 +58,40 @@ class DishDetail extends StatelessWidget {
                     child: Text(_dish.recipe, style: TextStyle(fontSize: 14)))
               ]))
     ];
+  }
+}
+
+class FavoriteButton extends StatefulWidget {
+  @override
+  State createState() {
+    return _FavoriteState();
+  }
+}
+
+class _FavoriteState extends State<FavoriteButton> {
+  static const platform = const MethodChannel("lib.view/favorite");
+
+  // todo pass dish
+
+  bool _isFavorite = false;
+
+  @override
+  Widget build(BuildContext context) {
+    return FlatButton(
+        onPressed: () {
+          _updateFavorite();
+        },
+        textColor: Colors.deepOrange,
+        child: Text(
+            _isFavorite ? "Eliminar de Favoritos" : "Agregar a Favoritos"));
+  }
+
+  Future<void> _updateFavorite() async {
+    final bool isFavorite = await platform.invokeMethod("updateFavorite", <String, dynamic>{
+             'isFavorite': _isFavorite,
+           });
+    setState(() {
+      _isFavorite = isFavorite;
+    });
   }
 }
